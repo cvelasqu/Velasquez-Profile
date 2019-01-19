@@ -2,7 +2,7 @@
 This will be my profile for the telling stories with data course
 # About me
 
-Hello, I am MISM BIDA student at Carnegie Mellon
+Hello, I am a MISM BIDA student at Carnegie Mellon
 
 # What I hope to learn
 
