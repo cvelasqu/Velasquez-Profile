@@ -31,7 +31,7 @@ I really hope to learn a lot about how to comunicate the results of data analysi
 
 ### Some thought about these graphs:
 
-The first graph from the OECD shows countries debt relation to GDP in a way that it is easy to understand which countries have a higer debt than others, so you can see quickly that Japan has the highest debt while Estonia has the lowest. I think this is an appropiate graph for the idea that is meant to be transmited: An ordered and relative measure of debt levels among the OECD countries. The colors in the graph are very good and the horizontal white lines make easier to read the graph.
+The first graph from the OECD shows countries debt to GDP  relation in a way that it is easy to understand which countries have a higer debt than others, so you can quickly see for example that Japan has the highest debt while Estonia has the lowest. I think this is an appropiate graph for the idea that is meant to be communicated: An ordered and relative measure of debt levels among the OECD countries. The colors in the graph are very good and the horizontal white lines make easier to read the graph.
 
 The graph built using  RAW shows a more detailed debt picture, and it gives us the opportunity to see the evolution of the debt during about 20 years rather than just a general view. This is interesting because we can see how countries like Japan and Spain have been increasing their debts during this period of time while a country like Canada has decreased it. This graph clearly gives us another dimesion of analysis and allows us to lead to a more complete interpretation of debt in the OECD countries.
 
