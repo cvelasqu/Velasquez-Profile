@@ -37,4 +37,4 @@ The graph built using  RAW shows a more detailed debt picture, and it gives us t
 
 Finally, I chose to do a Boxplot graph because I am interested in complementing the former graph with an anlysis of the distribution of the debt during this period of time: Its mean, its variance, maximum, minimun, etc. From this graph, we can immediately figure out how volatile is the debt for each country, for example, it is easy to see how volatile is Japan, which has a huge boxplot, and how stable is a country like Colombia, which debt/GPD ratio seems to remain almost the same during this period of time.
 
-This third graph is adressed to a more technical audince that understands easily the concepts involved in a boxplot, like the median, meam, interquantile range, etc.
+The third graph is adressed to a more technical audience that understands easily the concepts involved in a boxplot, like the median, meam, interquantile range, etc.
