@@ -2,14 +2,14 @@
 ## Outline
 
 ### Summary:
-I want to show the state of the violence in Colombia during the 90s and its evolution until now, pointing out some of the most important moments that had influence in this evolution.
+I want to show the state of the violence in Colombia during the 90s and its evolution until now, pointing out some of the most important moments that have had influence in this evolution.
 
 ### Concrete outline:
 
 - State of the Colombian violence in the 90s
   - Sources of violence
   - Some statistics of murders, kidnapings and terrorist attacks
-- Important milestones of the way violence was handled by the Colombian government
+- Important milestones of the way violence was handled by the Colombian government that lead to a change
 - State of the Colombian violence in the recent years
 
 ## Data
