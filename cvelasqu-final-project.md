@@ -1,4 +1,4 @@
-# Final Project : Colombia: A peace story
+# Final Project : Colombia: A peace  story
 ## Outline
 
 ### Summary:
