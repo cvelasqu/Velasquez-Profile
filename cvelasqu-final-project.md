@@ -1,4 +1,4 @@
-# Final Project : An overview of the violence in Colombia
+# Final Project : Colombia: A peace story
 ## Outline
 
 ### Summary:
