@@ -26,3 +26,17 @@ I will use a Shorthand story for this project, so far I have sketched the follow
 
 http://preview.shorthand.com/hFFPLussVW9Jb9C8
 
+
+# Final Project part II:
+
+## Sketches
+
+As expressed above, my intention is to develop a story about how the Colombian was has evolved pointing out some of the most importants facts that have influenced that evolution, for this I am trying to develop three visualizations:
+
+### War overview 
+
+The first visualization is meant to be a basic statistical summary of the war in Colombia, highlithing the most important aspects of the war in terms of the impact to the civil population: Kidnappings, Massive murders and terrorist attacks
+
+So, so far I am developing this graph as an starting point to introduce my story:
+
+[]
