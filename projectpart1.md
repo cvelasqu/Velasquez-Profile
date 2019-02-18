@@ -39,4 +39,4 @@ The first visualization is meant to be a basic statistical summary of the war in
 
 So, so far I am developing this graph as an starting point to introduce my story:
 
-[]
+[Overview](overview.html)
