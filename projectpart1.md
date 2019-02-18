@@ -35,7 +35,7 @@ As expressed above, my intention is to develop a story about how the Colombian w
 
 ### War overview 
 
-<img src="https://github.com/cvelasqu/Velasquez-Profile/mm.svg">
+<img src="https://github.com/cvelasqu/Velasquez-Profile/blob/master/mm.svg">
 
 The first visualization is meant to be a basic statistical summary of the war in Colombia, highlithing the most important aspects of the war in terms of the impact to the civil population: Kidnappings, Massive murders and terrorist attacks
 
