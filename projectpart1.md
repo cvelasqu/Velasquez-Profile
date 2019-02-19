@@ -109,6 +109,6 @@ For the second graph, the new skecth will be like this:
 
 I have been working in a  Shorthand  document for the presentation but I have realized that this tool may not so good for a presentation so I am thinking about changing this. So far what I have is the same than the last week:
 
-https://preview.shorthand.com/hFFPLussVW9Jb9C8
+[Shorthand Presentation](https://preview.shorthand.com/hFFPLussVW9Jb9C8)
 
 
