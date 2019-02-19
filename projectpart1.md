@@ -85,7 +85,7 @@ I asked this to 1 Colombian people who understands the data and the story, 1 Ind
   - Yes, the information is clear and it is presented in a very simple and understandable way.
   - I do not agree that the democratic security was the only cause of the violent reduction, you have to make a better explanations on that.
 
- -  Indian, MISM BIDA student: 
+-  Indian, MISM BIDA student: 
 
   - No, I do not like the pies to present the data so I would change them for bars. The time series graphs seem to be ok.
   - I would add another graph at the end, showing the current state of the violence and comparing it with the state before the democratic security.
