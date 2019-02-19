@@ -1,4 +1,9 @@
 # Final Project : Colombia: A peace  story
+
+
+
+# Final Project part I:
+
 ## Outline
 
 ### Summary:
@@ -74,22 +79,22 @@ I asked 3 people whath the think aobut my graphs, the questions I made were the 
 
 I asked this to 1 Colombian people who understands the data and the story, 1 Indian person who has no idea of the data and story, and 1 American person who has a partial knowledge about this. The answers were the following:
 
-1. Colombian, PPM CMU student:
-  1. Yes, the pie charts are the correct way to present the information given that there are different violent actors in the story and        it is important to show the resposibility proportion. And also the time series graphs give a good Idea of how this has evolved over time. 
-  2. I would change the text at the beginning of the pie chart and replace it by another graph and I would add some explanation about what FARC and ELN are. Also, I would change the second graph for a stacked bar grap instead of the stacked lines.Also, I would change the color of the second graph, they are very similar. The title does not say anything so I would change it to "Colombian violence by perpetrator: 1980-2012"
-  3. Yes, the information is clear and it is presented in a very simple and understandable way.
-  4. I do not agree that the democratic security was the only cause of the violent reduction, you have to make a better explanations on that.
+- Colombian, PPM CMU student:
+  - Yes, the pie charts are the correct way to present the information given that there are different violent actors in the story and        it is important to show the resposibility proportion. And also the time series graphs give a good Idea of how this has evolved over time. 
+  - I would change the text at the beginning of the pie chart and replace it by another graph and I would add some explanation about what FARC and ELN are. Also, I would change the second graph for a stacked bar grap instead of the stacked lines.Also, I would change the color of the second graph, they are very similar. The title does not say anything so I would change it to "Colombian violence by perpetrator: 1980-2012"
+  - Yes, the information is clear and it is presented in a very simple and understandable way.
+  - I do not agree that the democratic security was the only cause of the violent reduction, you have to make a better explanations on that.
 
-2.  Indian, MISM BIDA student: 
+ -  Indian, MISM BIDA student: 
 
-  1. No, I do not like the pies to present the data so I would change them for bars. The time series graphs seem to be ok.
-  2. I would add another graph at the end, showing the current state of the violence and comparing it with the state before the democratic security.
-  3. The information is clear in general but a full explanation of the FARC and ELN things is necessary to reach a wider audience.
+  - No, I do not like the pies to present the data so I would change them for bars. The time series graphs seem to be ok.
+  - I would add another graph at the end, showing the current state of the violence and comparing it with the state before the democratic security.
+  - The information is clear in general but a full explanation of the FARC and ELN things is necessary to reach a wider audience.
   
-3. American, MISM BIDA Student: 
-  1. Yes, the type of the graphics are ok.
-  2. I would change the second graph for one in which there is only one aggregated serie, the proportion of the groups is already shown in the first graph. Instead, I would add other important series of the terrorist attacks and kidnappings. The colors of the second graph are also not the best.
-  3. Yes, it in general clear and easy to understand.
+- American, MISM BIDA Student: 
+  - Yes, the type of the graphics are ok.
+  - I would change the second graph for one in which there is only one aggregated serie, the proportion of the groups is already shown in the first graph. Instead, I would add other important series of the terrorist attacks and kidnappings. The colors of the second graph are also not the best.
+  - Yes, it in general clear and easy to understand.
 
 
 ## Implementation of the sketches after the research
