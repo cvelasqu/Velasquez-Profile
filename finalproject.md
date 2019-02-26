@@ -129,9 +129,27 @@ And the other two graphs:
 
 
 
-## Some adittional comments
+#Final Data story
 
-I have been working in a  Shorthand  document for the presentation but I have realized that this tool may not so good for a presentation so I am thinking about changing this. So far what I have is the same than the last week:
+I have realized that this is a complex story for many people who do not know the context of the war even though I was thinking it was going to be easy to explain. So I would say that the intended audience for this story are people who understand a little about the context of political conflicts and what guerrillas and paramilitary groups are. I added some clarifications of what these things are in the graphs but I am afraid that a general public will struggle a little to understand my story unless I make a clear and complete explanation of the context. 
 
-[Shorthand Presentation](https://preview.shorthand.com/hFFPLussVW9Jb9C8)
+I would say that my story will be well understood after this brief explanation, but it will be really understood by people with a previous understanding of these basic concepts.
+
+The process to build this story started by thinking about my interest on telling such important story about Colombia. So I started to look for the information and I realized that, fortunately, there is a lot of information about it. Then I decided to try to tell the story by pointing out what, in my opinion, were the main facts that led this conflict to almost end in nowadays. 
+
+After that I started to look for different tools to make good graphics and I found out about Plotly, that can be used in python, R or online. I decided to use python because this is more familiar to me.
+
+I started to make some sketches of what I wanted and I got confused by the many ways I could tell the story so I decided to focus on only three kind of crimes: Kidnappings, massive murders and terrorist attacks. With this information I believe I can tell the story well enough to be understood.
+
+After making some graphs using plotly I started to ask many people about the graphs and about the story. The story is very easy to understand for latin american people who naturally know something about it but, as expected, it is not that easy for people of other nationalities so I started to narrow my goal being a little more specific.
+
+Ater this, I decided to use shorthand for telling the story, but also realized that shorthand is not a good tool for making a presentation, even though it is amazing for making a broad explanation of the story. Due to this, I also did a google slides presentation to be able to present my story at the end of the course.
+
+I was thinking about using infogram as another tool but I decided no to use it, I think the story can be told with the four graphs I made.
+
+
+[Shorthand Presentation](https://preview.shorthand.com/GSuMmTOPEKaAPIkb)
+
+[Google slides presentation](https://docs.google.com/presentation/d/1K1WJZhvn1QhtthkHPnoc_Hrm1WMrrBBQ-zy7vI7niqM/edit#slide=id.p)
+
 
