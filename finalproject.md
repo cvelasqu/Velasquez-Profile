@@ -129,7 +129,7 @@ And the other two graphs:
 
 
 
-#Final Data story
+# Final Data story
 
 I have realized that this is a complex story for many people who do not know the context of the war even though I was thinking it was going to be easy to explain. So I would say that the intended audience for this story are people who understand a little about the context of political conflicts and what guerrillas and paramilitary groups are. I added some clarifications of what these things are in the graphs but I am afraid that a general public will struggle a little to understand my story unless I make a clear and complete explanation of the context. 
 
